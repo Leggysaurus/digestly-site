@@ -1,8 +1,8 @@
 # Digestly Privacy Policy
 
-_Last updated: 24 July 2026_
+_Last updated: 27 July 2026_
 
-Digestly (formerly TraceBite) is a food, symptom, and exposure diary for families. Privacy is the product: **your data belongs to you, stays with you, and is never seen by us or anyone else.**
+Digestly is a food, symptom, and exposure diary for families. Privacy is the product: **your data belongs to you, stays with you, and is never seen by us or anyone else.**
 
 ## What Digestly collects
 
@@ -12,6 +12,12 @@ Nothing, by us. Digestly has **no servers, no user accounts, no analytics, no tr
 
 - Everything you log (profiles, meals, symptoms, exposures, notes, photos) is stored **on your device**, inside the app's private storage.
 - If you enable **iCloud sync** (optional, on by default when signed in), your data is also stored in **your personal iCloud account** using Apple's CloudKit, encrypted in transit and at rest by Apple. We have no access to it. You can turn sync off at any time in Settings.
+
+### Photos, specifically
+
+Photos you attach to a symptom — a rash, for example — are treated like the rest of your log: on your device, and in your own iCloud if sync is on. They are not stored separately or handled specially, and we never see them.
+
+Being straight with you about one detail: iCloud data is encrypted, but unless you have **Advanced Data Protection** switched on in your iPhone's iCloud settings, the encryption keys are held by Apple rather than only by you. That means Apple could in principle be compelled to hand over iCloud contents, including these photos. This is true of everything in iCloud, not just Digestly — but photos of a child's skin deserve a plain warning rather than a footnote. If that matters to you, either turn on Advanced Data Protection, or turn Digestly's iCloud sync off and keep your log on the device only.
 
 ## What leaves your device
 
