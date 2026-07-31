@@ -1,6 +1,6 @@
 # Digestly Privacy Policy
 
-_Last updated: 29 July 2026_
+_Last updated: 31 July 2026_
 
 Digestly is a food, symptom, and exposure diary for families. Privacy is the product: **your data belongs to you, stays with you, and is never seen by us or anyone else.**
 
@@ -48,6 +48,7 @@ Only what **you** choose to share:
 - **Doctor reports (PDF)** and **CSV exports** are generated on your device and leave it only through the iOS share sheet, to a destination you pick.
 - iCloud sync, if enabled, moves data only between your own devices via your own iCloud account.
 - **A barcode**, and only when you scan one — see below.
+- **A symptom you log on an Apple Watch**, which travels to your own iPhone and no further — see below.
 
 ### Barcode scanning, specifically
 
@@ -69,6 +70,16 @@ Other things worth stating plainly:
 - **The camera is only used while the scanner is open**, and only if you allow it. Decline, and Digestly offers a field to type the barcode digits instead.
 
 We receive nothing from any of this. We have no server involved in it and no way to see that it happened.
+
+### The Apple Watch app, specifically
+
+If you use the Apple Watch app, you can log a symptom from your wrist without taking your phone out. What moves does so **directly between your own two devices**, over the link your iPhone and your watch already have with each other. No server of ours is involved, and no third party's either — this is not a network request and nothing about it reaches the internet.
+
+It also works **whether or not you use iCloud sync**, and that is deliberate: a symptom logged on the wrist must not go missing simply because you have chosen to keep your diary on one device only.
+
+- **Watch to phone: one symptom.** Which symptom you picked, how severe you said it was, when, and which person it is about. Nothing else — no note, no photo, and nothing else you have ever logged.
+- **Phone to watch: only what a list needs.** The symptom names, so the watch can show them to you in your own language; a marker saying which of them involve breathing, so the emergency-care notice can appear on the watch itself instead of waiting for a phone in another room; and the names of the people you log for, so the watch can show whose entry it is. **Your diary, your patterns, your insights and your reports are never sent to the watch** — a watch is the screen in a household most easily read over your shoulder, so it is given the least.
+- **The watch keeps no diary of its own.** It holds that list and the entries still waiting to be handed over, and nothing more. Your log lives on your iPhone. Removing the watch app removes the watch's copy of the list with it.
 
 ## Apple Health (optional)
 
