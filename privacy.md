@@ -78,8 +78,10 @@ If you use the Apple Watch app, you can log a symptom from your wrist without ta
 It also works **whether or not you use iCloud sync**, and that is deliberate: a symptom logged on the wrist must not go missing simply because you have chosen to keep your diary on one device only.
 
 - **Watch to phone: one symptom.** Which symptom you picked, how severe you said it was, when, and which person it is about. Nothing else — no note, no photo, and nothing else you have ever logged.
-- **Phone to watch: only what a list needs.** The symptom names, so the watch can show them to you in your own language; a marker saying which of them involve breathing, so the emergency-care notice can appear on the watch itself instead of waiting for a phone in another room; and the names of the people you log for, so the watch can show whose entry it is. **Your diary, your patterns, your insights and your reports are never sent to the watch** — a watch is the screen in a household most easily read over your shoulder, so it is given the least.
-- **The watch keeps no diary of its own.** It holds that list and the entries still waiting to be handed over, and nothing more. Your log lives on your iPhone. Removing the watch app removes the watch's copy of the list with it.
+- **Phone to watch: what a list needs.** The symptom names, so the watch can show them to you in your own language; a marker saying which of them involve breathing, so the emergency-care notice can appear on the watch itself instead of waiting for a phone in another room; and the names of the people you log for, so the watch can show whose entry it is.
+- **If you add Digestly to your watch face**, four more things travel with that: how many meals and how many symptoms you have logged today, how many days in a row you have logged at all, and the name of the person those numbers describe. They are counted on your phone, so the watch receives the totals and never the entries behind them. These are the same numbers the iPhone widget has always shown.
+- **Your diary, your patterns, your insights and your reports are never sent to the watch.** A watch is the screen in a household most easily read over your shoulder, so it is given the least it can work with.
+- **The watch keeps no diary of its own.** It holds the list above, those few numbers, and any entry not yet handed over — nothing more. Your log lives on your iPhone. Removing the watch app removes the watch's copy with it.
 
 ## Apple Health (optional)
 
