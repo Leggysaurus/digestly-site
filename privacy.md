@@ -1,6 +1,6 @@
 # Digestly Privacy Policy
 
-_Last updated: 31 July 2026_
+_Last updated: 2 August 2026_
 
 Digestly is a food, symptom, and exposure diary for families. Privacy is the product: **your data belongs to you, stays with you, and is never seen by us or anyone else.**
 
@@ -14,10 +14,13 @@ Digestly makes exactly one kind of network request, and only when you ask it to:
 
 - Everything you log (profiles, meals, symptoms, exposures, notes, photos, and anything you add to an emergency card) is stored **on your device**, inside the app's private storage.
 - If you enable **iCloud sync** (optional, on by default when signed in), your data is also stored in **your personal iCloud account** using Apple's CloudKit, encrypted in transit and at rest by Apple. We have no access to it. You can turn sync off at any time in Settings.
+- Digestly also remembers a few small things about the app itself rather than about you: which language you chose, whether you turned iCloud sync on, and **which of the app's hint bubbles you have already dismissed**. These live on your device only. They are never synced, never exported and never sent anywhere, and Settings → Tips → **Show tips again** clears the last of them.
 
 ### Photos, specifically
 
 Photos you attach to a symptom — a rash, for example — or to a meal are treated like the rest of your log: on your device, and in your own iCloud if sync is on. They are not stored separately or handled specially, and we never see them.
+
+**You can take a photo back off.** Open the entry and tap **Remove photo**, then save. The picture is deleted from the entry along with everything else that save writes, and from your iCloud copy the next time it syncs. You do not have to delete the whole entry to undo an attachment you did not mean to make.
 
 Being straight with you about one detail: iCloud data is encrypted, but unless you have **Advanced Data Protection** switched on in your iPhone's iCloud settings, the encryption keys are held by Apple rather than only by you. That means Apple could in principle be compelled to hand over iCloud contents, including these photos. This is true of everything in iCloud, not just Digestly — but photos of a child's skin deserve a plain warning rather than a footnote. If that matters to you, either turn on Advanced Data Protection, or turn Digestly's iCloud sync off and keep your log on the device only.
 
@@ -40,6 +43,22 @@ Digestly can hold an **emergency card** for each person: the allergy action plan
 - **Phone numbers are typed by you.** Digestly never reads your address book. It has no access to your Contacts, and asks for none.
 - **Expiry reminders are local.** If you switch on a reminder for an auto-injector, it is scheduled by your own iPhone as a local notification. Nothing is sent to us or to anyone else. If you have "Discreet reminders" switched on in Settings, the reminder omits the person's name, the brand and the location, so a lock screen shows only that an auto-injector is expiring.
 - **Deleted with everything else.** Removing a person removes their emergency card, and "Erase all data" removes all of it, documents included.
+
+### Linking a breastfed baby to the parent who feeds them, specifically
+
+If you say in a profile that a baby is breastfed by someone, Digestly can show that parent's
+logged meals alongside the baby's symptoms, and can list what the parent ate in the hours before
+a feed you are logging.
+
+- **Nothing new is collected or sent.** This shows meals the parent had already logged on their
+  own profile. It creates no record of its own and makes no request.
+- **Both profiles are already yours.** They are two people in one family diary on one device, so
+  this moves nothing between accounts — there is only ever one account, which is yours.
+- **You set it up and you can undo it.** The link is off unless you choose it in the profile
+  editor, and clearing it stops the sharing immediately. Past meals keep whatever you logged
+  about them; nothing is rewritten.
+- **It is not a conclusion.** The app says what was logged and when, and says plainly that it
+  cannot tell what actually reached the baby.
 
 ## What leaves your device
 
