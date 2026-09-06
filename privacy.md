@@ -1,6 +1,6 @@
 # Digestly Privacy Policy
 
-_Last updated: 2 August 2026_
+_Last updated: 6 September 2026_
 
 Digestly is a food, symptom, and exposure diary for families. Privacy is the product: **your data belongs to you, stays with you, and is never seen by us or anyone else.**
 
@@ -65,6 +65,8 @@ a feed you are logging.
 Only what **you** choose to share:
 
 - **Doctor reports (PDF)** and **CSV exports** are generated on your device and leave it only through the iOS share sheet, to a destination you pick.
+- **Backup files** (Settings → Backup & sharing) are generated on your device and leave it only through the iOS share sheet, to a destination you pick. A backup contains everything — profiles, the diary, photos, emergency cards — and is **not encrypted**, so anyone who has the file can read it; the app says so where the file is made. Keep it as carefully as you would any medical document. The prepared file is removed from the app's own storage when you leave the screen, and "Erase all data" clears any staged exports it finds.
+- **Shared profiles** (Settings → Backup & sharing) are for a co-parent's phone. The file is **encrypted on your device** before it leaves, and it leaves only through the share channel you pick (AirDrop, for example). It can only be opened with the code Digestly shows you, which you pass on yourself — the code is never stored in or sent with the file, and Digestly transmits nothing anywhere in the process. The file's name is generic and includes nobody's name. Be aware of what rides along: so the receiving phone can name everything, the share also carries the household's own catalog additions — custom foods, symptoms and medicines, and saved meal templates — even when they were made for another profile.
 - iCloud sync, if enabled, moves data only between your own devices via your own iCloud account.
 - **A barcode**, and only when you scan one — see below.
 - **A symptom you log on an Apple Watch**, which travels to your own iPhone and no further — see below.
